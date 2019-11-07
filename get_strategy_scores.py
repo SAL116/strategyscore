@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 	year=int(sys.argv[1])
 	# connect to database 
-	engine=create_engine('mysql+pymysql://root:root123456@startup.ctbs9z8dwcln.us-east-2.rds.amazonaws.com/strategy')
+	engine=create_engine('mysql+pymysql://*******@startup.ctbs9z8dwcln.us-east-2.rds.amazonaws.com/strategy')
 
 	#load models for text mining 
 	datadir = "/home/ubuntu/SIMItxt/"
