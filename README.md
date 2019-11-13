@@ -4,9 +4,9 @@ Welcome to our the data appendix of our paper "Measuring Founding Strategy".  Th
 
 In this repo, you will find the code we have used to download all the original webpages of the startups, calculate the strategy score for each startup, and the resulting word weights.  We hope you find it useful, and we are excited to share it with the community.  Please do not hesitate to reach out if you have any question.s
 
-Jorge Guzman (Columbia Business School, Columbia University)
+Jorge Guzman (Columbia Business School, Columbia University) \
 Aishen Li (Data Science Institute, Columbia University)
 
-Contact:
-  Jorge Guzman -- jag2367@gsb.columbia.edu
+*Contact*: \
+  Jorge Guzman -- jag2367@gsb.columbia.edu \
   Aishen Li -- al3836@columbia.edu
